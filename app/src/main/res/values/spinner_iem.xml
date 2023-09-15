@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_items">
+
+
+        <item>Default Font</item>
+        <item>notonastaliq</item>
+        <item>oswald</item>
+        <item>robotoslab</item>
+        <item>schoolbell</item>
+        <item>serif</item>
+        <item>sixcaps</item>
+        <item>specialelite</item>
+        <item>tilt</item>
+        <item>titilliumweb</item>
+        <item>wallpoet</item>
+        <item>yellowtail</item>
+
+    </string-array>
+</resources>

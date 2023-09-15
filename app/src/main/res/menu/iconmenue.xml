@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group >
+        <item
+            android:id="@+id/favorites"
+            android:title="Favorites"
+            android:icon="@drawable/ic_baseline_star_24"/>
+
+        <item
+            android:id="@+id/share"
+            android:title="Share"
+            android:icon="@drawable/ic_baseline_share_24"
+            />
+        <item
+            android:id="@+id/privacypolicy"
+            android:title="Privacy policy"
+            android:icon="@drawable/ic_baseline_privacy_24"
+            />
+
+
+    </group>
+
+    <!--<item android:title="Help Permote App">
+
+       <menu>
+
+           <item
+               android:id="@+id/likeit"
+               android:title="I like it I want to help..."
+               android:icon="@drawable/ic_baseline_share_24"
+               />
+
+       </menu>
+
+    </item>
+-->
+
+
+
+
+</menu>
